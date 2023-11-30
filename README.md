@@ -1,6 +1,6 @@
 # Discord MD : The ultimate guide
 <hr>
-**The basics of discord MD**
+<h1>The basics of discord MD</h1>
 <hr>
 | Format | Syntax |
 --- | ---
@@ -10,6 +10,6 @@
 | Bold Italics | ***text\*\*\* OR _\*\*text\*\*\_ |
 | Underline Italics | ___text\_\_\_ OR __*text\*\_\_ |
 <hr>
-**Link MD**
+<h1>Link MD</h1>
 <hr>
 \[text]\(link)
