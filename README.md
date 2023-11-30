@@ -1,5 +1,6 @@
 # The basics of discord MD
 | Format | Syntax |
+--- | ---
 | Italics | *text\* OR _text\_ |
 | Bold | **text\*\* |
 | Underline | __text\_\_ |
