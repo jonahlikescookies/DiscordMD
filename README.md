@@ -16,3 +16,4 @@
 <hr>
 
 \[text]\(link)
+ex) [example](example.com)
