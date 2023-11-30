@@ -14,8 +14,8 @@
 <hr>
 <h2>Link MD</h2>
 <hr>
-  
-**Hide URL: **
+
+<strong>Hide URL: </strong>  
 
 \[text]\(link)  
 ex) [example](example.com)
