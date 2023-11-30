@@ -15,5 +15,5 @@
 <h2>Link MD</h2>
 <hr>
 
-\[text]\(link)
+\[text]\(link)  
 ex) [example](example.com)
