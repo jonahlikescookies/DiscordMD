@@ -22,3 +22,12 @@
 
 \[text]\(link)  
 ex) [example](example.com)
+
+<hr>  
+<h2>Code Blocks</h2>  
+<hr>  
+
+<strong>Single Line: </strong>  
+
+\`code here\`  
+ex) `Hello world!`
