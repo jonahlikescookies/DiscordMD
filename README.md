@@ -32,5 +32,21 @@ ex) [example](example.com)
 \`code here\`  
 ex) `Hello world!`
 You can also format single line code blocks! One of my favorite examples of this is making a header with a single line code block:
-# `Hello world!`
+# `Hello world!`  
+
+<strong>Multiline Code Blocks: </strong>  
+Multiline code blocks can actually display code!
+:memo:**Note:** not all programming languages are supported.
+\`\`\`language
+Code
+\`\`\`
+ex)
+```cpp
+#include <iostream>
+
+int main(){
+  std::cout << "Hello World!" << std::endl;
+  return 0;
+}
+```
 
