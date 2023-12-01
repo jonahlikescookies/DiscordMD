@@ -31,3 +31,6 @@ ex) [example](example.com)
 
 \`code here\`  
 ex) `Hello world!`
+You can also format single line code blocks! One of my favorite examples of this is making a header with a single line code block:
+# `Hello world!`
+
